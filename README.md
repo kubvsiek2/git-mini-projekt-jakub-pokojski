@@ -4,8 +4,8 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Jakub Pokojski
+Klasa / grupa: 4TP
 
 ## Cel projektu
 Uczymy sie gita
