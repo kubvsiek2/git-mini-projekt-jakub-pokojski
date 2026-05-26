@@ -5,5 +5,7 @@
   { "komenda": "git switch -c", "opis": "utworzenie nowego brancha" },
     { "komenda": "git TTT", "opis": "pierwsze wysłanie bsrancha na GitHub" },
       { "komenda": "git TTT2", "opis": "pierwsze wysłanie bsrancha na GitHub" },
+          { "komenda": "git TTT3", "opis": "pierwsze wysłanie bsrancha na GitHub" },
+      { "komenda": "git TTT4", "opis": "pierwsze wysłanie bsrancha na GitHub" },
   { "komenda": "git push -u origin", "opis": "pierwsze wysłanie brancha na GitHub" }
 ]
