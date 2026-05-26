@@ -8,9 +8,7 @@ Imię i nazwisko: ........................................
 Klasa / grupa: ..........................................
 
 ## Cel projektu
-
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
-
+Uczymy sie gita
 ## Opis projektu
 
 Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS, JS, dokumentację w katalogu `docs` oraz przykładowe dane w katalogu `data`.
