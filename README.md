@@ -21,6 +21,7 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 
 ## Struktura plików
 
+Zasady Pracy: 123
 - `index.html` - strona startowa mini projektu.
 - `style.css` - wygląd strony.
 - `script.js` - prosta interakcja i licznik zadań.
